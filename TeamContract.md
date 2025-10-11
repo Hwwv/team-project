@@ -134,9 +134,5 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 Team Member Signatures:
 
 - Ava Bidari
-- Meilin Han
-- Jayla Lee
-- Winston Liang
-- Muhammad Rafie
-- Qilin Zeng
+
 
