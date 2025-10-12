@@ -108,6 +108,7 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 Team Member Signatures:
 
 - Ava Bidari
+- Muhammad Rafie
 
 Date: Oct 12, 2025
 
