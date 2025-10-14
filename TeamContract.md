@@ -112,6 +112,7 @@ Team Member Signatures:
 - Qilin Zeng
 - Winston Liang (Winstonnub)
 - Meilin Han
+- Jayla Lee
 
 Date: Oct 12, 2025
 
