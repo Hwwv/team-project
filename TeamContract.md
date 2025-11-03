@@ -109,7 +109,7 @@ Team Member Signatures:
 
 - Ava Bidari
 - Muhammad Rafie
-- Qilin Zeng
+- Qilin Zeng (Stephen)
 - Winston Liang (Winstonnub)
 - Meilin Han
 - Jayla Lee
